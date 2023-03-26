@@ -10,7 +10,7 @@ variable "bucket_name" {
     "my-test-bucket-latest8999",
     "mytestbucket8888",
     "montrealcollege-927218-for-demo",
-    "bucket-full-of-happiness"
+    "bucket-project-full-of-happiness"
 
   ]
 }
