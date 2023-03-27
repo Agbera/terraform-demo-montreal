@@ -1,6 +1,6 @@
 variable "project_id" {
   description = "The ID of the GCP project."
-  default     = "avian-amulet-378416"
+  default     = "terraform-project1"
 }
 
 variable "bucket_name" {
@@ -9,7 +9,7 @@ variable "bucket_name" {
   default     = [
     "my-test-bucket-latest8999",
     "mytestbucket8888",
-    "montrealcollege-927218-for-demo",
+    "montrealcollege-demo",
     "bucket-project-full-of-happiness"
 
   ]
