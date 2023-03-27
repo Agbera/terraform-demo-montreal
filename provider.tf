@@ -15,10 +15,10 @@ provider "google" {
 
 terraform {
   cloud {
-    organization = "sami123123123"
+    organization = "terraform-project1"
 
     workspaces {
-      name = "mobility-base-storage"
+      name = "terraform-demo-montreal"
     }
   }
 }
