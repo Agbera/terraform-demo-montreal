@@ -17,7 +17,7 @@ terraform {
   cloud {
     organization = "terraform-project1"
 
-    workspaces {terraform-demo-project
+    workspaces = "terraform-demo-project"
       name = "terraform-demo-montreal"
     }
   }
