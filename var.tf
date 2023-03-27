@@ -1,6 +1,6 @@
 variable "project_id" {
   description = "The ID of the GCP project."
-  default     = "terraform-project1"
+  default     = "agbera-ola-380101"
 }
 
 variable "bucket_name" {
