@@ -7,7 +7,7 @@ terraform {
 }
 
 provider "google" {
-  project     = "agbera-ola-380101"
+  project     = "assignment-project-383205"
   region      = "us-central1"
 }
 
