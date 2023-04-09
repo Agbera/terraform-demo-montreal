@@ -1,6 +1,6 @@
 variable "project_id" {
   description = "The ID of the GCP project."
-  default     = "agbera-ola-380101"
+  default     = "assignment-project-383205"
 }
 
 variable "bucket_name" {
